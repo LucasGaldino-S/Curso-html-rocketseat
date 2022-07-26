@@ -1,2 +1,2 @@
 # Curso-html-rocketseat
-Curso inicial hmtl
+Primeiro exercicio html
